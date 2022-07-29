@@ -1,0 +1,8 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "CosmosDBConnection": "AccountEndpoint=https://cosmos-db-boook-app.documents.azure.com:443/;AccountKey=D2jRc5iYduirUlt7Ue64bSVbVq4EmRH3x6iYXXa53evpsCl8NJbXZF5CmVKgiN1F9Ql8Ao4x3tgqunn2MjJJ2g==;",
+    "StorageConnectionString": "<Storage connection string>"
+  }
+}
